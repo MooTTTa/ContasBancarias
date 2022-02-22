@@ -1,10 +1,11 @@
-package contasBancarias.contas;
+package Repositorios.contasBancarias.contas;
 
 
 import java.util.Scanner;
 
+//oi
 
-import contasBancarias.contas.servico.GerenciaContas;
+import Repositorios.contasBancarias.contas.servico.GerenciaContas;
 
 public class AppContas {
     public static void main(String[] args) {

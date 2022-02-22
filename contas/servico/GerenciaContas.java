@@ -1,11 +1,11 @@
-package contasBancarias.contas.servico;
+package Repositorios.contasBancarias.contas.servico;
 
 import java.util.ArrayList;
 
-import contasBancarias.contas.modelos.Conta;
-import contasBancarias.contas.modelos.ContaCorrente;
-import contasBancarias.contas.modelos.ContaEspecial;
-import contasBancarias.contas.modelos.ContaPoupanca;
+import Repositorios.contasBancarias.contas.modelos.Conta;
+import Repositorios.contasBancarias.contas.modelos.ContaCorrente;
+import Repositorios.contasBancarias.contas.modelos.ContaEspecial;
+import Repositorios.contasBancarias.contas.modelos.ContaPoupanca;
 
 public class GerenciaContas {
     private ArrayList<Conta> contas;

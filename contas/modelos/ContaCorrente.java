@@ -1,4 +1,4 @@
-    package contasBancarias.contas.modelos;
+    package Repositorios.contasBancarias.contas.modelos;
 
 public class ContaCorrente extends Conta {
     final double TAXA_DEPOSITO = 0.1;

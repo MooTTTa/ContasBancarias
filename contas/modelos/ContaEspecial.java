@@ -1,4 +1,4 @@
-package contasBancarias.contas.modelos;
+package Repositorios.contasBancarias.contas.modelos;
 
 public class ContaEspecial extends Conta{
     
